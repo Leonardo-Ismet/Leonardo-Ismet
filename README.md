@@ -1,4 +1,9 @@
 ### Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
 
 My name is Leonardo Ismet, I am a project engineer, my specialties are traditional projects and agile projects, and I can apply different methods like SCRUM, Lean, Predictive and Waterfall.
 
@@ -13,4 +18,5 @@ In simple terms, I am a project manager, but not the usual PM, that some people 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I like to play videogames 🎮, cats 🐱 and dogs 🐶
+
 
