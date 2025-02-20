@@ -5,7 +5,7 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
-My name is Leonardo Ismet, I am a project engineer, my specialties are traditional projects and agile projects, and I can apply different methods like SCRUM, Lean, Predictive and Waterfall.
+My name is Leonardo Ismet, I am a project engineer, my specialties are traditional projects and agile projects, and I can apply different methods like SCRUM, Lean, Predictive, Waterfall and Agile.
 
 In simple terms, I am a project manager, but not the usual PM, that some people get mad when work together, because I like to meet and understand the people who are involved in achieving the objectives of each project with their talent, and do the magic that can change the world.
 
